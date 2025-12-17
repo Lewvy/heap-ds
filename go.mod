@@ -1,3 +1,3 @@
-module github.com/leavy/heap-ds
+module github.com/lewvy/heap-ds
 
 go 1.25.5
